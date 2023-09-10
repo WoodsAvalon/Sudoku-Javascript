@@ -14,4 +14,4 @@ Simple Sudoku game using Javascript, Html and CSS
 5. Add a Sudoku solver as a different tab
 
 ## What the app looks like
-![alt text](https://github.com/WoodsAvalon/Sudoku/blob/main/Sudoku/sudoku.jpg)
+![alt text](https://github.com/WoodsAvalon/Sudoku-Javascript/blob/main/sudoku.jpg)
