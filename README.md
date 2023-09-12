@@ -12,6 +12,7 @@ Simple Sudoku game using Javascript, Html and CSS
 3. Allow numbers to be altered unless they are the ones provided (Completed)
 4. Randomly generate Sudoku puzzles and solutions
 5. Add a Sudoku solver as a different tab
+6. Add row, column, box and game completion detection and animation
 
 ## What the app looks like
 ![alt text](https://github.com/WoodsAvalon/Sudoku-Javascript/blob/main/sudoku.jpg)
